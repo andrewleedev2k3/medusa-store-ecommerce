@@ -7,7 +7,7 @@ const Banner = () => {
       <span className="text-content-title">Ecommerce Medusa Store</span>
       <div className="text-content-text">Andrew Lee - Link Github Project</div>
       <Link
-        href="https://github.com/andrewleedev2k3/medusa-store"
+        href="https://github.com/andrewleedev2k3/medusa-store-ecommerce"
         target="_blank"
         className="px-3 py-[1px] shadow-sm bg-[#F7F8F9] border-2 rounded-xl flex gap-1 font-semibold items-center text-content-title text-[13px]"
       >
